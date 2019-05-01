@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: nginx
+  repository: index.docker.io/nginx
   tag: 1.14.0
   pullPolicy: IfNotPresent
 
